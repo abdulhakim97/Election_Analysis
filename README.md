@@ -23,7 +23,9 @@
   Diana DeGette won the election with 272,892 votes to her name, which was about 73.8% overall points.
 
 
-# Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections
+# Election-Audit Summary and Example: 
+  ## Summary
+  Overall this election audit was a complete success and this script could be used in various ways for future election alike, by simply modifying the scripts you could potentially uses this for almost anything within the election process given you have the right sets of data.
 
   ## First Example 
   You could use this script for the other counties in the area or around the country, all you need would be to gather all of the votes from different methods and import that data into the script and watch the program swift their all of these information at once. 
